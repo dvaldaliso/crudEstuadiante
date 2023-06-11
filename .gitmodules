@@ -1,0 +1,6 @@
+[submodule "estudianteBackend"]
+	path = estudianteBackend
+	url = git@github.com:dvaldaliso/estudianteBackend.git
+[submodule "estuduanteFrontend"]
+	path = estuduanteFrontend
+	url = git@github.com:dvaldaliso/estuduanteFrontend.git
